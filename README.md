@@ -7,4 +7,6 @@ Project for the course "Development of Intelligent Computer Systems" at IME-USP.
 In the first part of this project, we will create the **training pipeline** for
 a **categorization model**. More instructions are available [here][1].
 
+Students: Verena Christian Saẽta and Carlos 
+
 [1]: ./training/README.md
