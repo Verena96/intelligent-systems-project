@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "query": "espirito santo",
+      "search_page": 2,
+      "position": 6,
+      "title": "Mandala Espírito Santo",
+      "concatenated_tags": "mandala mdf",
+      "price": 171.89,
+      "weight": 1200.00,
+      "express_delivery": 1,
+      "minimum_quantity": 4,
+      "view_counts": 244
+
+    }
+  ]
+}
